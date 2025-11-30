@@ -21,9 +21,9 @@ This logbook records my progress and time spent on the Cybersecurity course assi
 | 2025-11-27 | 15:00 | 16:30 | 1.5 hrs | BookingSystem-Phase1: ZAP scanning | Install ZAP, run full active scan on /register, attempt to export Markdown report |
 | 2025-11-28 | 13:00 | 15:00 | 2.0 hrs | BookingSystem-Phase1: Report + GitHub | Create test_report.md, ZAP_Report.md, pushed to GitHub BookingSystem-Phase1 folder |
 
-**Total hours so far:** **16.4 hrs**  
+**Total hours so far:** **16hours plus**  
 **Grade 1 (6 labs) status:** All completed ✅  
-**BookingSystem-Phase1 status:** Partially complete - additional work required
+**BookingSystem-Phase1 status:**  All completed ✅  
 
 ## About
 CyberSecurity assignment logbook – tracking time, topics, and outputs.
