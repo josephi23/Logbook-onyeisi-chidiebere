@@ -1,1 +1,18 @@
+# Booking System – Phase 2  
+Onyeisi Chidiebere, Abara Callistus 
 
+submission for Phase 2 of the Booking System project.  
+The main system was built together with my group partner Callistus   
+
+Link to the original code we worked on:  
+https://github.com/callistus0/CybersecurityAndDataPrivacyAutumn2025/tree/main/BookingSystem/Phase1/Part2
+
+The application runs perfectly and includes:
+- User registration and login  
+- Booking and viewing appointments  
+- Basic security (password hashing, protected routes)  
+- Basic privacy features (consent + logging)
+
+Everything works as demonstrated 
+
+Thank you.
